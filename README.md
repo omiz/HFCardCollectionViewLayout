@@ -1,6 +1,9 @@
 # HFCardCollectionViewLayout
 The HFCardCollectionViewLayout provides a card stack layout not quite similar like the apps Reminder and Wallet.
 
+## Requirements
+- Swift 4.2
+
 Features:
 
 - Many options, also within the InterfaceBuilder
